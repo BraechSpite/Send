@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 api_id = 22557209
 api_hash = '2c2cc680074bcfa5e77f2773ff6e565b'
 input_channel = -1001663891655  # Input channel ID
-output_channel = -1002192323521  # Output channel ID
+output_channel = -1002423424574  # Output channel ID
 
 # Create the Telegram client
 client = TelegramClient('bot_session', api_id, api_hash)
